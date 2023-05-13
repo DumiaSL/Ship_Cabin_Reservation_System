@@ -1,0 +1,16 @@
+----------------------------------Cabin Details------------------------------------
+Logs updated Date/Time : Wed Apr 20 13:59:09 IST 2022
+
+Cabin number 	-   0	Cabin name	-   not yet booked
+Cabin number 	-   1	Cabin name	-   not yet booked
+Cabin number 	-   2	Cabin name	-   not yet booked
+Cabin number 	-   3	Cabin name	-   not yet booked
+Cabin number 	-   4	Cabin name	-   not yet booked
+Cabin number 	-   5	Cabin name	-   not yet booked
+Cabin number 	-   6	Cabin name	-   not yet booked
+Cabin number 	-   7	Cabin name	-   not yet booked
+Cabin number 	-   8	Cabin name	-   not yet booked
+Cabin number 	-   9	Cabin name	-   not yet booked
+Cabin number 	-   10	Cabin name	-   not yet booked
+Cabin number 	-   11	Cabin name	-   not yet booked
+--------------------------------------------------------------------------------------

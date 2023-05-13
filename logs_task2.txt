@@ -1,0 +1,82 @@
+---------------Cabin Details----------------
+Logs updated Date/Time : Tue Apr 19 22:29:07 IST 2022
+
+----cabin No.0 - 1's cabin----
+Passenger 1 details
+First name : ghj
+Surname    : 89
+Expenses   : 78
+
+
+----cabin No.1 - 1's cabin----
+Passenger 1 details
+First name : ghj
+Surname    : gjh
+Expenses   : 89
+
+
+----cabin No.2 - g's cabin----
+Passenger 1 details
+First name : ghj
+Surname    : hjk
+Expenses   : 78
+
+
+----cabin No.3 - not yet booked----
+
+----cabin No.4 - hkj's cabin----
+Passenger 1 details
+First name : hjk
+Surname    : ulo980
+Expenses   : 98
+
+
+----cabin No.5 - hgfhg's cabin----
+Passenger 1 details
+First name : tyu
+Surname    : fgjh
+Expenses   : 89
+
+
+----cabin No.6 - jk's cabin----
+Passenger 1 details
+First name : yku
+Surname    : hkjh
+Expenses   : 78
+
+
+----cabin No.7 - yuyi's cabin----
+Passenger 1 details
+First name : gjh
+Surname    : k
+Expenses   : 890
+
+
+----cabin No.8 - jgjg's cabin----
+Passenger 1 details
+First name : gjh
+Surname    : hjk
+Expenses   : 89
+
+
+----cabin No.9 - ygu's cabin----
+Passenger 1 details
+First name : jg
+Surname    : ggh
+Expenses   : 89
+
+
+----cabin No.10 - ghj's cabin----
+Passenger 1 details
+First name : gfj
+Surname    : gvjh
+Expenses   : 67
+
+
+----cabin No.11 - 1's cabin----
+Passenger 1 details
+First name : fsd
+Surname    : fd
+Expenses   : 34
+
+---------------------------------------------------------------------------
